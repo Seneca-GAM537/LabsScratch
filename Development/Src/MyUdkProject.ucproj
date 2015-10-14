@@ -77,6 +77,8 @@
     <Folder Include="GFxUI\Classes\" />
     <Folder Include="IpDrv\" />
     <Folder Include="IpDrv\Classes\" />
+    <Folder Include="LabExample\" />
+    <Folder Include="LabExample\Classes\" />
     <Folder Include="MyMod2\" />
     <Folder Include="MyMod2\Classes\" />
     <Folder Include="Foobar" />
