@@ -84,6 +84,7 @@
     <Folder Include="MyMod2\Classes\" />
     <Folder Include="Foobar" />
     <Folder Include="Lab6" />
+    <Folder Include="Week9" />
     <Folder Include="OnlineSubsystemGameCenter\" />
     <Folder Include="OnlineSubsystemGameCenter\Classes\" />
     <Folder Include="OnlineSubsystemGameCircle\" />
@@ -108,6 +109,9 @@
     <Folder Include="UTGameContent\Classes\" />
     <Folder Include="UTGame\" />
     <Folder Include="UTGame\Classes\" />
+    <Folder Include="Week8\" />
+    <Folder Include="Week8\Classes\" />
+    <Folder Include="Week9\Classes" />
     <Folder Include="WinDrv\" />
     <Folder Include="WinDrv\Classes\" />
   </ItemGroup>
