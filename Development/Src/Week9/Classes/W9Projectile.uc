@@ -1,6 +1,6 @@
 class W9Projectile extends UTProjectile;
 
-function PostBeginPlay()
+simulated function PostBeginPlay()
 {
 	super.PostBeginPlay();
 	`Log("W9Projectile instantiated -> "$self);

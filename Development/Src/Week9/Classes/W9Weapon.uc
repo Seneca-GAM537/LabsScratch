@@ -1,6 +1,6 @@
 class W9Weapon extends UTWeapon;
 
-function PostBeginPlay()
+simulated function PostBeginPlay()
 {
 	super.PostBeginPlay();
 	`Log("W9Weapon instantiated");

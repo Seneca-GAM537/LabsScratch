@@ -84,6 +84,8 @@
     <Folder Include="MyMod2\Classes\" />
     <Folder Include="Foobar" />
     <Folder Include="Lab6" />
+    <Folder Include="Week10" />
+    <Folder Include="Week10\Classes" />
     <Folder Include="Week9" />
     <Folder Include="OnlineSubsystemGameCenter\" />
     <Folder Include="OnlineSubsystemGameCenter\Classes\" />
